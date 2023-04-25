@@ -28,5 +28,5 @@ jobs:
             - name: Save ZAP report
               uses: actions/upload-artifact@v2
               with:
-                  name: ZAP Report
-                  path: zap-report.html
+                  name: zap-report
+                  path: report.html
