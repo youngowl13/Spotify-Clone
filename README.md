@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyoungowl13%2FSpotify-Clone.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyoungowl13%2FSpotify-Clone?ref=badge_shield)
+
 <h1> Spotify-Clone 🎶 </h1>
 
 <p>Spotify-Clone that runs on your browser and with great UI/UX and animations.</p>
@@ -11,3 +13,7 @@
 <li>Even someone good with documentation can contribute to the readme files</li>
 
 </ul>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyoungowl13%2FSpotify-Clone.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyoungowl13%2FSpotify-Clone?ref=badge_large)
